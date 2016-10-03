@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					170425781DA2FCF500D835B6 = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = EENP9W3YA9;
 						ProvisioningStyle = Automatic;
 					};
 					1704258C1DA2FCFA00D835B6 = {
@@ -410,6 +411,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = EENP9W3YA9;
 				INFOPLIST_FILE = Prueba/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = vallesmd.Prueba;
@@ -422,6 +424,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = EENP9W3YA9;
 				INFOPLIST_FILE = Prueba/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = vallesmd.Prueba;
